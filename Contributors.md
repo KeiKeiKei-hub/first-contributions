@@ -20443,7 +20443,8 @@ rehan
 - [Andre Y Pegov] (https://github.com/KislyMonk/)
 - [Laks Castro :D] (https://github.com/LaksCastro/)
 - [Alan J Correa] (https://github.com/thealanjason/)
-  [Kristopher Doidge] (https://github.com/kris-doidge)
+- [Keishiro Ito] (https://github.com/KeiKeiKei-hub)
+- [Kristopher Doidge] (https://github.com/kris-doidge)
 - [Changnoi97] (https://github.com/RioRocker97)
 - [Pushpender Aggarwal] (https://github.com/pushpender-aggarwal)
 - [H Knee] (https://github.com/OmKneescient)
@@ -20567,4 +20568,4 @@ rehan
 - [Kareem_Amr] (https://github.com/kareemamrr)
 - [Ankush Dutt] (https://github.com/ankushdutt)
 - [Sterling Smith] (https://github.com/sterlingssmith)
-- [Keishiro Ito] (https://github.com/KeiKeiKei-hub)
+
